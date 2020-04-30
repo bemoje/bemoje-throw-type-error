@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/throw-type-error",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Throws a TypeError with a generated error message with ANSI-colors for easier console output readability.",
    "main": "dist/throw-type-error.umd.js",
    "module": "dist/throw-type-error.esm.js",
@@ -48,9 +48,9 @@
       "@bemoje/expected-got": "^1.0.0"
    },
    "devDependencies": {
-      "@bemoje/is-type": "^1.0.0",
+      "@bemoje/is-type": "^1.0.1",
       "babel-core": "^6.26.3",
-      "babel-jest": "^25.4.0",
+      "babel-jest": "^25.5.1",
       "babel-preset-env": "^1.7.0",
       "documentation": "^12.3.0",
       "esm": "^3.2.25",
